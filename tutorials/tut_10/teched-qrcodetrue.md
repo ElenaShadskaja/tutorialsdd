@@ -3,7 +3,7 @@ title: teched 2018 5
 description: Create a Destination to allow HANA Cloud Platform to nbvread/write data
 tags: [tutorial:product/mobile]
 primary_tag: tutorial:product/sapHana
-qrQode=true
+qrcode: true
 ---
 
 >### New tutor
