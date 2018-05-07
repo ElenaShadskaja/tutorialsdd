@@ -1,20 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @ElenaShadskaja
-Sign out
-0
-0 0 ElenaShadskaja/tutorials
- Code  Issues 36  Pull requests 0  Projects 0  Wiki  Insights  Settings
-tutorials/tutorials/2rules/validate_test.md
-0a6b4b2  4 hours ago
-@ElenaShadskaja ElenaShadskaja Update validate_test.md
-     
-133 lines (67 sloc)  2.06 KB
 ---
 title: Validate rules test may2018 
 description:autotests description 4433222111
