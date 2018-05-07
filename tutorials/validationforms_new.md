@@ -68,7 +68,6 @@ qrcode: true
  
 [ACCORDION-END]
 
-
 [ACCORDION-BEGIN [STEP 11](single-choice #2)] 
   
  [VALIDATE_11] 
